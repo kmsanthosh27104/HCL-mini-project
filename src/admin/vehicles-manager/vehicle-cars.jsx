@@ -68,7 +68,7 @@ const VehicleCars = () => {
 
             Object.values(cars).map(async (item, index) => {
 
-                if(!('File' in window && item.image instanceof File)) // if it is not file (firebaseurl) then no changes happened so skip upload
+                if(!('File' in window && item.image instanceof File)) 
                     return null;
 
                 const uploadedImageUrl = await uploadImageToStorage(item.image);
