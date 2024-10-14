@@ -18,10 +18,6 @@ import {loadingContent} from "../../components/general/general-components";
 
 const MyRentals = () => {
 
-    // IT WAS USING BEFORE DATABASE USAGE (FOR GLOBAL STATE MANAGEMENT)
-    // const {reservations} = useSelector(state => state.ReserveSlice);
-    // NOT REQUIRED ANYMORE (BECAUSE RESERVATION DATA WILL FETCH FROM DB)
-
     const locale = 'en';
     const [date, setDate] = useState(new Date());
 
