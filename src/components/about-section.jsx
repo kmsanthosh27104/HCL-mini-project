@@ -19,7 +19,7 @@ const AboutSection = () => {
                   About <span className="primary-color">Us</span>
               </h1>
               <p className="about-text fs-5 m-0">
-                  Quisque a nulla a elit efficitur consequat quis vitae nulla. Vestibulum ornare turpis felis. Praesent varius tellus et augue faucibus cursus. Nam a condimentum mauris. Aenean non fermentum mi. Etiam ultrices eleifend aliquam. Sed id felis sed massa ornare efficitur eu sed diam. Proin sollicitudin tristique vulputate. Aenean non est hendrerit, tincidunt purus non, vestibulum ante. Phasellus vel ullamcorper sapien. Nulla accumsan venenatis dolor. Etiam metus diam, malesuada sit amet.
+                  This car rental application is designed to provide users with a seamless and efficient experience when booking vehicles. The app offers a wide range of cars to suit various needs, from economy vehicles for budget-conscious travelers to luxury cars for special occasions.
               </p>
               <div className="mt-3">
                   <a href="#" className="readmore-btn fs-5 px-3 py-2">Read More</a>
