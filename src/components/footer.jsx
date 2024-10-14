@@ -46,17 +46,17 @@ const Footer = () => {
                     <p className="fs-6 text-white m-0">
                   <span>
                     <IoLocation className="header-line-2-icon"/>&nbsp;
-                    <a href="https://goo.gl/maps/2rkkAA9FP5pegCXF9" target="_blank" className="text-white">New York</a>
+                    <a href="https://goo.gl/maps/" target="_blank" className="text-white">India</a>
                   </span>
                       <br/>
                       <span>
                     <BsTelephoneFill size="0.9em" className="header-line-2-icon"/>&nbsp;
-                        <a href="tel:+12126583916" target="_blank" className="text-white">(212) 658-3916</a>
+                        <a href="tel:+918072403738" target="_blank" className="text-white">8072403738</a>
                   </span>
                       <br/>
                       <span>
                     <GrMail className="header-line-2-icon"/>&nbsp;
-                        <a href="mailto:fbatuhanr@gmail.com" target="_blank" className="text-white">fbatuhanr@gmail.com</a>
+                        <a href="mailto:kmsanthosh27104@gmail.com" target="_blank" className="text-white">kmsanthosh27104@gmail.com</a>
                   </span>
                     </p>
                     <div className="social-icon">
@@ -75,7 +75,7 @@ const Footer = () => {
               <Col>
                 <p className="text-white text-center fs-6 mt-2 mb-1">
                   {new Date().getFullYear()} All Rights Reserved. Developed & Designed by &nbsp;
-                  <a href="https://github.com/fbatuhanr/" target="_blank" className="text-primary">fbatuhanr</a>
+                  <a href="https://github.com/kmsanthosh27104/" target="_blank" className="text-primary">santhosh</a>
                 </p>
               </Col>
             </Row>
