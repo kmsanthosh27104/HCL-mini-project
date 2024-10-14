@@ -4,7 +4,7 @@
             "brand": "Hyundai",
             "model": {
                 "Bayon": {
-                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/hyundai/bayon.png",
+                    "imageUrl": "https://github.com/kmsanthosh27104/HCL-mini-project/blob/main/src/assets/images/vehicles/hyundai/bayon.png",
                     "power": "100 HP",
                     "engineSize": "1398 cc",
                     "gearbox": "Automatic",
