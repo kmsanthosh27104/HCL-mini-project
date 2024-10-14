@@ -12,7 +12,7 @@
                     "fuelType": "Gas"
                 },
                 "i20": {
-                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/hyundai/i20.png",
+                    "imageUrl": "https://github.com/kmsanthosh27104/HCL-mini-project/blob/main/src/assets/images/vehicles/hyundai/i20.png",
                     "power": "100 HP",
                     "engineSize": "1368 cc",
                     "gearbox": "Automatic",
