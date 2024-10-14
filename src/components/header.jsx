@@ -90,19 +90,19 @@ const Header = () => {
                                 <Col xs={12} md={4}>
                             <span className="fs-6">
                                 <IoLocation className="header-line-2-icon"/>&nbsp;
-                                <a href="https://goo.gl/maps/2rkkAA9FP5pegCXF9" target="_blank" className="text-white">New York</a>
+                                <a href="https://goo.gl/maps/" target="_blank" className="text-white">India</a>
                             </span>
                                 </Col>
                                 <Col xs={12} md={4}>
                           <span className="fs-6">
                             <BsTelephoneFill size="0.9em" className="header-line-2-icon"/>&nbsp;
-                              <a href="tel:+12126583916" target="_blank" className="text-white">(212) 658-3916</a>
+                              <a href="tel:+918072403738" target="_blank" className="text-white">8072403738</a>
                           </span>
                                 </Col>
                                 <Col xs={12} md={4}>
                           <span className="fs-6">
                             <GrMail className="header-line-2-icon"/>&nbsp;
-                              <a href="mailto:fbatuhanr@gmail.com" target="_blank" className="text-white">fbatuhanr@gmail.com</a>
+                              <a href="mailto:kmsanthosh27104@gmail.com" target="_blank" className="text-white">kmsanthosh27104@gmail.com</a>
                           </span>
                                 </Col>
                             </Row>
