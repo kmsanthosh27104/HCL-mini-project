@@ -35,7 +35,7 @@ const Slider = () => {
                             <Carousel.Caption className="carousel-caption text-dark text-start">
                               <h2 className="fs-1 fw-bold mb-2"><span>Car Rent</span><br/><span className="primary-color">For You</span></h2>
                               <p className="fs-3 m-0">
-                                Maecenas lacinia ultrices dolor vitae.
+                                Tailored to meet your unique travel needs, our car rental service offers personalized options, ensuring a perfect fit for every journey.
                               </p>
                             </Carousel.Caption>
                           </Carousel.Item>
@@ -43,7 +43,7 @@ const Slider = () => {
                             <Carousel.Caption className="carousel-caption text-dark text-start">
                               <h2 className="fs-1 fw-bold mb-2"><span>Rent a Car</span><br/><span className="primary-color">Easy</span></h2>
                               <p className="fs-3 m-0">
-                                Maecenas euismod accumsan nunc ut tempus.
+                                Exclusive deals and special discounts, ensuring you get the best rental rates and value for your money.
                               </p>
                             </Carousel.Caption>
                           </Carousel.Item>
