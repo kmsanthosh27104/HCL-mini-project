@@ -177,12 +177,6 @@ const CarDetail = () => {
                     });
                 });
 
-
-            // IT WAS USING BEFORE DATABASE USAGE (FOR GLOBAL STATE MANAGEMENT)
-            //
-            // dispatch(makeReservation(reservationData));
-            //
-            // NOT REQUIRED ANYMORE (BECAUSE RESERVATION DATA WILL FETCH FROM DB)
         }
     }
 
