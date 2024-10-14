@@ -25,7 +25,7 @@
             "brand": "BMW",
             "model": {
                 "320d": {
-                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/bmw/320d.png",
+                    "imageUrl": "https://github.com/kmsanthosh27104/HCL-mini-project/blob/main/src/assets/images/vehicles/bmw/320d.png",
                     "power": "187 HP",
                     "engineSize": "1995 cc",
                     "gearbox": "Automatic",
@@ -33,7 +33,7 @@
                     "fuelType": "Diesel"
                 },
                 "520i": {
-                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/bmw/520i.png",
+                    "imageUrl": "https://github.com/kmsanthosh27104/HCL-mini-project/blob/main/src/assets/images/vehicles/bmw/520i.png",
                     "power": "170 HP",
                     "engineSize": "1597 cc",
                     "gearbox": "Automatic",
@@ -46,7 +46,7 @@
             "brand": "Opel",
             "model": {
                 "Astra": {
-                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/opel/astra.png",
+                    "imageUrl": "https://github.com/kmsanthosh27104/HCL-mini-project/blob/main/src/assets/images/vehicles/opel/astra.png",
                     "power": "130 HP",
                     "engineSize": "1199 cc",
                     "gearbox": "Automatic",
@@ -59,7 +59,7 @@
             "brand": "Toyota",
             "model": {
                 "Corolla": {
-                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/toyota/corolla.png",
+                    "imageUrl": "https://github.com/kmsanthosh27104/HCL-mini-project/blob/main/src/assets/images/vehicles/toyota/corolla.png",
                     "power": "123 HP",
                     "engineSize": "1490 cc",
                     "gearbox": "Automatic",
@@ -72,7 +72,7 @@
             "brand": "Nissan",
             "model": {
                 "Qashqai": {
-                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/nissan/qashqai.png",
+                    "imageUrl": "https://github.com/kmsanthosh27104/HCL-mini-project/blob/main/src/assets/images/vehicles/nissan/qashqai.png",
                     "power": "190 HP",
                     "engineSize": "1497 cc",
                     "gearbox": "Automatic",
